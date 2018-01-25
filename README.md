@@ -1,0 +1,196 @@
+# Introduction to Physical Computing
+
+IMA 76700 / MEDP 34900  
+Wednesday, 7.00pm - 9.40pm  
+Spring Semester, Jan 31 - May 24  
+Hunter North Building, Room 432
+
+## Contact Information
+
+Andrew Doro  
+Adjunct Assistant Professor  
+[{email}]({email})  
+Office hours: after class or by appointment
+
+## Course Description
+
+This course introduces students to microcontroller programming, electronics, and physical interaction design. The bulk of the course will focus on the Arduino microcontroller for creating experiences that extend beyond the computer screen. We will also examine the use of electronics and interactivity in art and design. Weekly hands-on labs, assignments, and readings will help students gain technical proficiency with these tools and develop a critical and creative eye for interactive technology.
+
+## Course Objectives
+
+By the end of this course the student should be able to build and program basic microcontroller projects on the Arduino platform as well as have an understanding of physical interaction design. 
+
+## Required Materials
+* [MetroX kit](https://www.adafruit.com/product/3588) (recommended)  
+* [ARDX kit](https://www.adafruit.com/product/170) (if MetroX isn’t available)  
+* [Elegoo Starter kit](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/) (good value)  
+
+### ADDITIONAL TOOLS
+* breadboards
+* wire strippers
+* 22-AWG solid core hook-up wire
+* diagonal cutters
+* multimeter
+* soldering iron
+* solder
+
+It is likely that you will need additional materials depending on the nature of your projects. However, taking advantage of found and recycled materials is encouraged.
+
+
+### SOFTWARE:
+[Arduino IDE](https://www.arduino.cc/en/Main/Software)  
+[Fritzing](http://fritzing.org/home/) - 
+used for documenting electronics projects
+[GitHub](https://github.com/) -
+used for posting code and submitting information
+
+## Required Reading
+[Experimenters Guide for Metro](https://learn.adafruit.com/experimenters-guide-for-metro)  
+[Arduino Reference](https://www.arduino.cc/reference/en/)
+
+## Optional Reading
+[Programming Design Systems](https://programmingdesignsystems.com/)  
+[Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019)  
+[Getting Started in Electronics by Forrest Mims](https://www.adafruit.com/product/517)
+
+
+## Attendance and Participation
+
+Attendance is mandatory for all class sessions. Unexcused absence, tardiness, or leaving early negatively impacts your attendance record and will damage your grade. If you anticipate being late or absent, let me know as early as possible. Medical emergencies must be documented to be excused. If you cannot attend class on the day of a quiz, you must speak with me ahead of time in order to arrange for you to take it another time. This will only be done in cases where there is a well-documented reason for missing the quiz.  
+Participation means:    
+* Being attentive and respectful when others are speaking or presenting.
+  * During presentations, computers and cellphones may not be used and all laptops must be closed.  
+  * Contributing to in-class discussion, asking relevant questions and providing constructive feedback to your peers.
+* There are no dumb questions.  
+* Sharing your work each week and following along with in-class labs.  
+	* Failing to bring assignments and required materials to class will prevent you from participating.  
+* Contributing to the online discussion in the issues section.
+
+## Assignments
+
+This is a production heavy class. If you do not have your own computer, you will be able to access the labs outside of class. Room 478 also has computers with the relevant software installed.
+
+You must post assignments to the class homework page before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+
+Documentation of your work is required for all physical assignments. Refer to the documentation guidelines.
+
+## Grading
+
+* Assignments: 20%
+* Attendance and Participation: 30%
+* Midterm Project: 20%
+* Final Project: 30%
+
+### MIDTERM PROJECT
+
+* Make an interactive system that can keep a user engaged with your system. 
+* The midterm project will be worked on in pairs assigned by the instructor
+
+### FINAL PROJECT
+
+* Must be functional
+* Should be soldered- not using a breadboard
+* Should be novel
+* Must be well documented, including circuit diagrams and well-commented code
+* Explain your design processes
+
+## Electronic Device Policy 
+
+Cellphones and internet usage during class should only relate to relevant classroom topics. During presentations, computers and cellphones may not be used and all laptops must be closed.
+
+## Food & Drink Policy
+
+Water, beverages, and small snacks are fine. There will be a small 15 minute break in the middle of class. 
+
+## Academic Integrity
+
+Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The College is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures.
+
+## Disabilities
+
+In compliance with the ADA and with Section 504 of the Rehabilitation Act, Hunter College is committed to ensuring educational access and accommodations for all its registered students. Hunter College’s students with disabilities and medical conditions are encouraged to register with the Office of AccessABILITY for assistance and accommodation. For information and appointment contact the Office of AccessABILITY located in Room E1214 or call (212) 772-4857 or VRS (646) 755-3129, or visit [http://www.hunter.cuny.edu/studentservices/access/](http://www.hunter.cuny.edu/studentservices/access/)
+
+## Sexual Misconduct
+
+In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.  
+a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).  
+b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123.
+CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf)
+
+## WEEKLY SCHEDULE
+
+### Week 1, Jan 31 - Review Syllabus 
+* what is:
+  * physical computing
+  * interactivity
+  * a microcontroller
+  * Arduino
+    * Hello World
+
+### Week 2, Feb 7 - Arduino Basics
+* digital I/O
+* digital vs. analog
+* serial console
+
+### Week 3, Feb 14 - Electronics Basics
+* basic circuit
+* components
+* schematics
+* breadboards
+* multimeter
+* voltage, current, resistance
+  * Ohm’s Law
+* ICs
+
+### Week 4, Feb 21 - Programming Interaction & Analog I/O
+* programming interaction
+  * variables
+  * conditionals (if, else)
+  * datatypes
+* analog I/O
+  * ADC
+  * pulse width modulation
+  * tone
+
+### Week 5, Feb 28 - Iteration
+* for/while loops
+* arrays
+* functions
+
+### Week 6, Mar 7 - Serial Communication
+* asynchronous communication
+* I2C, SPI
+* wireless communication
+
+### Week 7, Mar 14 - Midterm Project Proposals & High Current Loads
+* motors
+  * DC motor
+  * servo
+  * stepper
+* solenoids
+* transistors / relays
+
+### Week 8, Mar 21 - Midterm Project User Testing
+
+### Week 9, Mar 28 - Midterm Project Presentations
+
+### Spring Recess, Mar 30 - Apr 8
+
+### Week 10, Apr 11 (Friday Schedule - no class)
+
+### Week 11, April 18 - Final Project Proposal
+
+### Week 12, April 25 - Final Project Concept Discussion
+
+### Week 13, May 2 - Final Project Prototype
+
+### Week 14, May 9 - Final Project User Testing
+
+### Week 15, May 16 - Final Project Presentations
+
+---
+
+This syllabus was created with the help of resources shared by [Chino Kim](http://chino.kim/), [Ricardo Miranda](http://pcomp.wikispaces.com/), and [Grayson Earle](http://graysonearle.com/) of Hunter College and [Dan Shiffman](http://shiffman.net/) and [Tom Igoe](https://tigoe.com/) of NYU ITP.
+
+
+
