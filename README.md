@@ -57,7 +57,8 @@ used for posting code and submitting information
 
 ## Attendance and Participation
 
-Attendance is mandatory for all class sessions. Unexcused absence, tardiness, or leaving early negatively impacts your attendance record and will damage your grade. If you anticipate being late or absent, let me know as early as possible. Medical emergencies must be documented to be excused. If you cannot attend class on the day of a quiz, you must speak with me ahead of time in order to arrange for you to take it another time. This will only be done in cases where there is a well-documented reason for missing the quiz.  
+Attendance is mandatory for all class sessions. Unexcused absence, tardiness, or leaving early negatively impacts your attendance record and will damage your grade. If you anticipate being late or absent, let me know as early as possible. Medical emergencies must be documented to be excused. If you cannot attend class on the day of a quiz, you must speak with me ahead of time in order to arrange for you to take it another time. This will only be done in cases where there is a well-documented reason for missing the quiz. 
+ 
 Participation means:    
 * Being attentive and respectful when others are speaking or presenting.
   * During presentations, computers and cellphones may not be used and all laptops must be closed.  
