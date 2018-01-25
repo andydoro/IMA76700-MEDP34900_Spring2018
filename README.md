@@ -30,6 +30,7 @@ By the end of this course the student should be able to build and program basic 
 * wire strippers
 * 22-AWG solid core hook-up wire, various colors
 * diagonal cutters
+* 9V DC 1-2A power supply
 * multimeter
 * soldering iron
 * solder (lead free recommended)
@@ -64,15 +65,15 @@ Participation means:
 * There are no dumb questions.  
 * Sharing your work each week and following along with in-class labs.  
 	* Failing to bring assignments and required materials to class will prevent you from participating.  
-* Contributing to the online discussion in the issues section.
+* Contributing to the online discussion in the [issues section](/andydoro/IMA76700-MEDP34900_Spring2018/issues).
 
 ## Assignments
 
 This is a production heavy class. If you do not have your own computer, you will be able to access the labs outside of class. Room 478 also has computers with the relevant software installed.
 
-You must post assignments to the class homework page before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+You must post assignments to the [class homework page](/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Homework) before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
-Documentation of your work is required for all physical assignments. Refer to the documentation guidelines.
+Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Documentation-Guidelines).
 
 ## Grading
 
