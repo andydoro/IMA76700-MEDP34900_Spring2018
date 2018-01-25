@@ -30,7 +30,7 @@ By the end of this course the student should be able to build and program basic 
 * wire strippers
 * diagonal cutters
 * 22-AWG solid core hook-up wire, various colors
-* 9V DC 1-2A power supply
+* 9V DC 1A power supply
 * multimeter
 * soldering iron
 * solder (lead free recommended)
