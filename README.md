@@ -9,7 +9,7 @@ Hunter North Building, Room 432
 
 Andrew Doro  
 Adjunct Assistant Professor  
-[{email}]({email})  
+[&#109;&#097;&#105;&#108;&#064;&#097;&#110;&#100;&#121;&#100;&#111;&#114;&#111;&#046;&#099;&#111;&#109;]({email})  
 Office hours: after class or by appointment
 
 ## Course Description
@@ -37,7 +37,7 @@ By the end of this course the student should be able to build and program basic 
 It is likely that you will need additional materials depending on the nature of your projects. However, taking advantage of found and recycled materials is encouraged.
 
 
-### SOFTWARE:
+### SOFTWARE
 [Arduino IDE](https://www.arduino.cc/en/Main/Software)  
 [Fritzing](http://fritzing.org/home/) - 
 used for documenting electronics projects  
@@ -51,7 +51,7 @@ used for posting code and submitting information
 ## Optional Reading
 [Programming Design Systems](https://programmingdesignsystems.com/)  
 [Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019)  
-[Getting Started in Electronics by Forrest Mims](https://www.adafruit.com/product/517)
+[Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)
 
 
 ## Attendance and Participation
