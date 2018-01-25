@@ -10,7 +10,7 @@ Hunter North Building, Room 432
 Andrew Doro  
 Adjunct Assistant Professor  
 [&#109;&#097;&#105;&#108;&#064;&#097;&#110;&#100;&#121;&#100;&#111;&#114;&#111;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#109;&#097;&#105;&#108;&#064;&#097;&#110;&#100;&#121;&#100;&#111;&#114;&#111;&#046;&#099;&#111;&#109;)  
-Office hours: after class or by appointment
+Office Hours: after class or by appointment
 
 ## Course Description
 
@@ -28,11 +28,11 @@ By the end of this course the student should be able to build and program basic 
 ### ADDITIONAL TOOLS
 * breadboards
 * wire strippers
-* 22-AWG solid core hook-up wire
+* 22-AWG solid core hook-up wire, various colors
 * diagonal cutters
 * multimeter
 * soldering iron
-* solder
+* solder (lead free recommended)
 
 It is likely that you will need additional materials depending on the nature of your projects. However, taking advantage of found and recycled materials is encouraged.
 
@@ -83,8 +83,9 @@ Documentation of your work is required for all physical assignments. Refer to th
 
 ### MIDTERM PROJECT
 
-* Make an interactive system that can keep a user engaged with your system. 
+* Make an interactive system that can keep a user engaged with your system 
 * The midterm project will be worked on in pairs assigned by the instructor
+* Must be functional
 
 ### FINAL PROJECT
 
