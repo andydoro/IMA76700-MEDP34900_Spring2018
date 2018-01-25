@@ -87,14 +87,16 @@ Documentation of your work is required for all physical assignments. Refer to th
 
 * Make an interactive system that can keep a user engaged with your system 
 * The midterm project will be worked on in pairs assigned by the instructor
-* Must be functional
+* **Your project must be functional**
 
 ### Final Project
 
-* Must be functional
+The final project will demonstrate a large amount of time spent outside of class, though we will also spend a significant portion of the last weeks of class dedicated to the completion of this project. As such, it is expected to be more technically and critically engaging. 
+
+* **Must be functional - your project must work!**
 * Should be soldered- not using a breadboard
 * Should be novel
-* Must be well documented, including circuit diagrams and well-commented code
+* Must be [well documented](/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Documentation-Guidelines), including circuit diagrams and well-commented code
 * Explain your design processes
 
 ## Electronic Device Policy 
