@@ -25,11 +25,11 @@ By the end of this course the student should be able to build and program basic 
 * [ARDX kit](https://www.adafruit.com/product/170) (if MetroX isn’t available)  
 * [Elegoo Starter kit](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/) (good value)  
 
-### ADDITIONAL TOOLS
+### Suggested Tools
 * breadboards
 * wire strippers
-* 22-AWG solid core hook-up wire, various colors
 * diagonal cutters
+* 22-AWG solid core hook-up wire, various colors
 * 9V DC 1-2A power supply
 * multimeter
 * soldering iron
@@ -38,7 +38,7 @@ By the end of this course the student should be able to build and program basic 
 It is likely that you will need additional materials depending on the nature of your projects. However, taking advantage of found and recycled materials is encouraged.
 
 
-### SOFTWARE
+### Software
 [Arduino IDE](https://www.arduino.cc/en/Main/Software)  
 [Fritzing](http://fritzing.org/home/) - 
 used for documenting electronics projects  
@@ -83,13 +83,13 @@ Documentation of your work is required for all physical assignments. Refer to th
 * Midterm Project: 20%
 * Final Project: 30%
 
-### MIDTERM PROJECT
+### Midterm Project
 
 * Make an interactive system that can keep a user engaged with your system 
 * The midterm project will be worked on in pairs assigned by the instructor
 * Must be functional
 
-### FINAL PROJECT
+### Final Project
 
 * Must be functional
 * Should be soldered- not using a breadboard
@@ -120,7 +120,7 @@ a. Sexual Violence: Students are strongly encouraged to immediately report the i
 b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu](mailto:jtrose@hunter.cuny.edu) or 212-650-3262) or Colleen Barry ([colleen.barry@hunter.cuny.edu](mailto:colleen.barry@hunter.cuny.edu) or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123.
 CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf)
 
-## WEEKLY SCHEDULE
+## Weekly Schedule
 
 ### Week 1, Jan 31 - Review Syllabus 
 * what is:
