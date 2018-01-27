@@ -121,7 +121,8 @@ In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirm
 <ol type="a">
 <li>Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).</li>  
 <li>All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose ([jtrose@hunter.cuny.edu](mailto:jtrose@hunter.cuny.edu) or 212-650-3262) or Colleen Barry ([colleen.barry@hunter.cuny.edu](mailto:colleen.barry@hunter.cuny.edu) or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123.</li>
-</ol>
+</ol>  
+
 CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf](http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf)
 
 ## Weekly Schedule
