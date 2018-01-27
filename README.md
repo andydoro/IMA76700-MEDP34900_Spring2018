@@ -150,7 +150,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * Ohm’s Law
 * ICs
 
-Feb 16 - Last day to drop without a grade of "W"
+### Feb 16 - Last day to drop without a grade of "W"
 
 ### Week 4, Feb 21 - Programming Interaction & Analog I/O
 * programming interaction
@@ -193,7 +193,7 @@ Feb 16 - Last day to drop without a grade of "W"
 
 ### Week 10, Apr 11 (Friday Schedule - no class)
 
-April 16 - Last day to withdraw from a course with a grade of "W"
+### April 16 - Last day to withdraw from a course with a grade of "W"
 
 ### Week 11, April 18 - Final Project Proposal
 
