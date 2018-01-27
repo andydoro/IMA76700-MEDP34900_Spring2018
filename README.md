@@ -179,11 +179,11 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * transistors / relays
 
 ### Week 8, Mar 21 - Midterm Project User Testing & Better Prototyping Techniques
-* Soldering
-* Shields
-* Wiring
-* Connectors
-* Enclosures & panel mount components
+* soldering
+* shields
+* wiring
+* connectors
+* enclosures & panel mount components
 
 ### Week 9, Mar 28 - Midterm Project Presentations
 
