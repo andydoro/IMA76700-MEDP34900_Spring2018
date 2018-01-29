@@ -21,8 +21,9 @@ This course introduces students to microcontroller programming, electronics, and
 By the end of this course the student should be able to build and program basic microcontroller projects on the Arduino platform as well as have an understanding of physical interaction design. 
 
 ## Required Materials
-* [MetroX kit](https://www.adafruit.com/product/3588) (recommended)  
-* [ARDX kit](https://www.adafruit.com/product/170) (if MetroX isn’t available)  
+* [MetroX kit](https://www.adafruit.com/product/3588) (recommended)
+* [ARDX kit from Tinkersphere](http://tinkersphere.com/boards/1443-ardx-arduino-kit-nyc.html) (buy in person!) 
+* [ARDX kit from Adafruit](https://www.adafruit.com/product/170) (if MetroX isn’t available)  
 * [Elegoo Starter kit](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/) (good value)  
 
 ### Suggested Tools
