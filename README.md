@@ -47,7 +47,7 @@ used for documenting electronics projects
 used for posting code and homework assignments
 
 ## Required Reading
-[Experimenters Guide for Metro](https://learn.adafruit.com/experimenters-guide-for-metro) [PDF version](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf) 
+[Experimenters Guide for Metro](https://learn.adafruit.com/experimenters-guide-for-metro) ([PDF version](http://ardx.org/src/guide/2/ARDX-EG-ADAF-PRINT.pdf))   
 [Arduino Reference](https://www.arduino.cc/reference/en/)
 
 ## Optional Reading
