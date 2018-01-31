@@ -2,7 +2,7 @@
 
 IMA 76700 / MEDP 34900  
 Wednesday, 7.00pm - 9.40pm  
-Spring Semester, Jan 31 - May 24  
+Spring Semester, Jan 31 - May 16  
 Hunter North Building, Room 432
 
 ## Contact Information
