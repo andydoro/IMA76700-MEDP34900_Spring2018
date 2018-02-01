@@ -67,7 +67,7 @@ Participation means:
 * There are no dumb questions.  
 * Sharing your work each week and following along with in-class labs.  
 	* Failing to bring assignments and required materials to class will prevent you from participating.  
-* Contributing to the online discussion in the [issues section](/andydoro/IMA76700-MEDP34900_Spring2018/issues).
+* Contributing to the online discussion in the [issues section](https://github.com/andydoro/IMA76700-MEDP34900_Spring2018/issues).
 
 ## Assignments
 
