@@ -73,9 +73,9 @@ Participation means:
 
 This is a production heavy class. If you do not have your own computer, you will be able to access the labs outside of class. Room 478 also has computers with the relevant software installed.
 
-You must post assignments to the [class homework page](/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Homework) before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+You must post assignments to the [class homework page](https://github.com/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Homework) before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
-Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Documentation-Guidelines).
+Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Documentation-Guidelines).
 
 ## Grading
 
@@ -97,7 +97,7 @@ The final project will demonstrate a large amount of time spent outside of class
 * **Must be functional - your project must work!**
 * Should be soldered- not using a breadboard
 * Should be novel
-* Must be [well documented](/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Documentation-Guidelines), including circuit diagrams and well-commented code
+* Must be [well documented](https://github.com/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Documentation-Guidelines), including circuit diagrams and well-commented code
 * Explain your design processes
 
 ## Electronic Device Policy 
