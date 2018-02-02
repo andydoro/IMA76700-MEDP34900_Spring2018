@@ -1,3 +1,4 @@
+
 # Week 1
 
 ## What is physical computing?
@@ -13,9 +14,16 @@
 * [The Untold History of Arduino](https://arduinohistory.github.io/)
 * [Ladyada's Intro to Arduino](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) - examines the anatomy of Arduino
 
+## LED Sand
+
+* [LED Sand](https://learn.adafruit.com/animated-led-sand) - complicated code but you can see how it was done
+
 ## Arduino "Hello World" - Blink
 
 * [Ladyada's blink](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-1/introduction)
 * [Digital Output](https://vimeo.com/album/2801639/video/86534049) - video showing basic blink program
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
