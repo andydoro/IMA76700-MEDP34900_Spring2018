@@ -4,6 +4,7 @@
 
 ## Early "New Media" Art
 * Nam Jun Paik - [Magnet TV](https://www.youtube.com/watch?v=L-TsvjJAfmg) [installation view](https://www.youtube.com/watch?v=UjTf2pIAZNM) (1965)
+* Scanner - [South Bank Show](https://www.youtube.com/watch?v=Yfuat21E_dg) (1997)
 
 ## Tape Music
 
