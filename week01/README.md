@@ -22,8 +22,3 @@
 
 * [Ladyada's blink](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-1/introduction)
 * [Digital Output](https://vimeo.com/album/2801639/video/86534049) - video showing basic blink program
-
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
