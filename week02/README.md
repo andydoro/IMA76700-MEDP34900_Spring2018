@@ -17,3 +17,5 @@
 
 ## Analog vs. Digital
 
+pulse width modulation   
+![alt text](http://www.ni.com/cms/images/devzone/tut/a/dadc74b4230.jpg "PWM")
