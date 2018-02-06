@@ -17,5 +17,8 @@
 
 ## Analog vs. Digital
 
-pulse width modulation   
-![alt text](http://www.ni.com/cms/images/devzone/tut/a/dadc74b4230.jpg "PWM")
+* [Wikipedia: Analog Computers](https://en.wikipedia.org/wiki/Analog_computer) 
+* [Not Your Father's Analog Computer](https://spectrum.ieee.org/computing/hardware/not-your-fathers-analog-computer)
+* [Scanimate](https://www.youtube.com/watch?v=Q-_sNFZ4Cao) - analog computer television graphics
+* [Scanimate on Sesame Street](https://www.youtube.com/watch?v=-9fn2tBnh9I)
+* [Secrets of Arduino Pulse Width Modulation](https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM) 
