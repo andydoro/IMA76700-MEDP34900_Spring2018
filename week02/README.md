@@ -3,7 +3,7 @@
 * [@burnedyourtweet](https://www.theverge.com/tldr/2017/3/28/15102170/donald-trump-tweets-robot-burning-twitter)
 
 ## Early "New Media" Art
-* Nam Jun Paik - [Magnet TV](https://www.youtube.com/watch?v=L-TsvjJAfmg) [installation view](https://www.youtube.com/watch?v=UjTf2pIAZNM) (1965)
+* Nam Jun Paik - [Magnet TV](https://www.youtube.com/watch?v=L-TsvjJAfmg) (1965) [installation view](https://www.youtube.com/watch?v=UjTf2pIAZNM) 
 
 
 ## Electroacoustic / Tape Music
