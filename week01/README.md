@@ -11,7 +11,6 @@
 
 ## What is Arduino?
 
-* [The Untold History of Arduino](https://arduinohistory.github.io/)
 * [Ladyada's Intro to Arduino](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) - examines the anatomy of Arduino
 
 ## LED Sand
