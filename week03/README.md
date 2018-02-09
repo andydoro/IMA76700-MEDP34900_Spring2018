@@ -1,7 +1,8 @@
 # Week 3
 
-## LED art
+## Light / LED art
 
+* [Grafitti Research Labs](http://www.graffitiresearchlab.com/) - [LED Throwies](http://www.instructables.com/id/LED-Throwies/) 
 * [TV-B-Gone](http://www.tvbgone.com/)
 * [Camo Flash](https://ahprojects.com/projects/camoflash/) by Adam Harvey
 * Antonin Fourneau – [Water Light Graffiti](https://vimeo.com/80781439) - [prototypes](https://www.youtube.com/watch?v=Ch-gYF1v3ls)
