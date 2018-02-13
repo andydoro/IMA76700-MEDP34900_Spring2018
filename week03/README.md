@@ -11,3 +11,8 @@
 * [Tatsuo Miyajima](http://tatsuomiyajima.com/category/work-projects/) - [Connect With Everything](https://www.youtube.com/watch?v=5LFzXwWzVjY)
 * [James Clar](http://www.jamesclar.com/works/)
 * [Leo Villareal](https://www.youtube.com/watch?v=HplsGiSmnJI)
+
+## Arduino Tutorials
+
+* [Digital Input](https://vimeo.com/album/2801639/video/86548673)
+* [Analog Input](https://vimeo.com/album/2801639/video/86551311)
