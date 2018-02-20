@@ -8,6 +8,7 @@
 * [Schematic Diagrams](https://itp.nyu.edu/physcomp/videos/videos-schematic-diagrams/)
 * [Ohm's Law 1](https://vimeo.com/album/2801639/video/76442432)
 * [Ohm's Law 2](https://vimeo.com/76442431)
+* [All About LEDs](https://learn.adafruit.com/all-about-leds/overview)
 * [Sensors Survey 1](https://vimeo.com/album/2801639/video/102042976)
 * [Sensors Survey 2](https://vimeo.com/102044250)
 
