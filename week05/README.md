@@ -5,6 +5,7 @@
 * [Tutorial: Arrays](https://www.arduino.cc/en/Tutorial/Arrays)
 * [Arrays](https://vimeo.com/101360989)
 * [CIRC02: 8 LED Fun](https://learn.adafruit.com/experimenters-guide-for-metro/circ02-intro)
+* [For Loop Iteration](https://www.arduino.cc/en/Tutorial/ForLoopIteration)
 * [Defining New Functions](https://www.arduino.cc/en/Reference/FunctionDeclaration)
 
 ## Examples
