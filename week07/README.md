@@ -2,7 +2,6 @@
 
 ## Electronics Tutorials
 
-
 * [Transistors, Relays, & High Current Loads](https://itp.nyu.edu/physcomp/lessons/electronics/transistors-relays-and-controlling-high-current-loads/)
 * [DC Motor Notes](https://itp.nyu.edu/physcomp/lessons/dc-motors/dc-motors-the-basics/)
 * [Stepper Motors](https://itp.nyu.edu/physcomp/lessons/dc-motors/stepper-motors/)
@@ -12,4 +11,7 @@
 * [Transistors: NPN](https://vimeo.com/111212691)
 * [Power Switch Tail](https://www.adafruit.com/product/2935)
 
+## Examples
 
+* [Zimoun](http://zimoun.net/)
+* [Scott Snibbe - Blow Up](https://www.snibbe.com/projects/interactive/blowup/)
