@@ -7,6 +7,7 @@
 * [Synchronous Serial Communication](https://itp.nyu.edu/physcomp/lessons/serial-communication/synchronous-serial-communication-the-basics/)
 * [Arduino Libraries Tutorial](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use)
 * [Arduino Reference: SPI](https://www.arduino.cc/en/Reference/SPI)
+* [SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
 * [I2C Tutorial](https://learn.sparkfun.com/tutorials/i2c)
 * [CIRC05: 8 More LEDs](https://learn.adafruit.com/experimenters-guide-for-metro/circ05-intro)
 
