@@ -11,6 +11,8 @@
 * [Shift Out](https://www.arduino.cc/en/Tutorial/ShiftOut)
 * [CIRC05: 8 More LEDs](https://learn.adafruit.com/experimenters-guide-for-metro/circ05-intro)
 * [I2C Tutorial](https://learn.sparkfun.com/tutorials/i2c)
+* [Video: Synchronous Serial - Intro](https://vimeo.com/111224388)
+* [Video: Synchronous Serial - I2C](https://vimeo.com/111239036)
 * [Arduino Libraries Tutorial](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use)
 
 
