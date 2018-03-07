@@ -3,6 +3,7 @@
 ## Electronics Tutorials
 
 * [Interpreting Serial Data](https://itp.nyu.edu/physcomp/lessons/serial-communication/interpreting-serial-data/)
+* [Serial Communication](https://learn.sparkfun.com/tutorials/serial-communication)
 * [Asynchronous Serial Communication](https://itp.nyu.edu/physcomp/lessons/serial-communication/serial-communication-the-basics/)
 * [Synchronous Serial Communication](https://itp.nyu.edu/physcomp/lessons/serial-communication/synchronous-serial-communication-the-basics/)
 * [Arduino Reference: SPI](https://www.arduino.cc/en/Reference/SPI)
