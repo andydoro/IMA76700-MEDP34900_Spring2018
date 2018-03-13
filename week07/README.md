@@ -4,6 +4,11 @@
 
 * [Transistors, Relays, & High Current Loads](https://itp.nyu.edu/physcomp/lessons/electronics/transistors-relays-and-controlling-high-current-loads/)
 * [Meet the Motors](https://vimeo.com/album/2801639/video/84274150)
+* [High Current Loads](https://vimeo.com/107910898)
+* [Transistors](https://vimeo.com/90287403)
+* [Transistors: NPN](https://vimeo.com/111212691)
+* [Power Switch Tail](https://www.adafruit.com/product/2935)
+* [Adafruit Motor Selection Guide](https://learn.adafruit.com/adafruit-motor-selection-guide)
 * [DC Motor Notes](https://itp.nyu.edu/physcomp/lessons/dc-motors/dc-motors-the-basics/)
 * [H-Bridges](https://vimeo.com/album/2801639/video/100357623)
 * [Stepper Motors](https://itp.nyu.edu/physcomp/lessons/dc-motors/stepper-motors/)
