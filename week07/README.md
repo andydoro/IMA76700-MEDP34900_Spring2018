@@ -28,3 +28,10 @@
 * [A Million Times](http://www.humanssince1982.com/a-million-times)
 * [Ralf Baecker - Interface I](http://www.rlfbckr.org/work/interface-i/)
 * [Cod.Act - πTon/2](https://www.youtube.com/watch?v=S5Y0jk1nTcw)
+
+## Code Examples
+
+* [blink_relay](https://gist.github.com/andydoro/df08b21b93d7cbb29eba3b3fec2a13c2)
+* [analogFeedbackServo](https://gist.github.com/andydoro/11f84a56b2ed2a0de921d85b8e681ec5)
+* [stepperAnnualClock](https://gist.github.com/andydoro/efec482a90b7398e3754cc49fdc72e30)
+
