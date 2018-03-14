@@ -27,6 +27,7 @@
 * [Nick Yulman - Song Cabinet](https://www.youtube.com/watch?v=oDnlxOAoThg)
 * [Zimoun](http://zimoun.net/)
 * [Scott Snibbe - Blow Up](https://www.snibbe.com/projects/interactive/blowup/)
+* [Alicia Eggert - It's Nice to Meet You!](https://www.youtube.com/watch?v=8M7187mCfSk)
 * [Daniel Rozin](https://vimeo.com/search?q=rozin+mirror)
 * [Chromatic Data Oscillator](http://www.stephencartwright.com/#/chromatic-data-oscillator-test/)
 * [A Million Times](http://www.humanssince1982.com/a-million-times)
