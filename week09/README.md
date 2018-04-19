@@ -2,6 +2,10 @@
 
 ## Electronics Tutorials
 
+### Hand Tools
+
+* [Tools for Physical Computing](https://vimeo.com/album/2801639/video/86743824)
+
 ### Soldering
 
 * [NASA: Hand Solder Training](http://www.sal.wisc.edu/docs/Soldering%20Basics.pdf)
