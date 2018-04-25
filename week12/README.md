@@ -2,7 +2,8 @@
 
 ## Wireless
 
-* [The Electromagnetic Spectrum](https://vimeo.com/album/2801639/video/86743824)
+* [The Electromagnetic Spectrum](https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html)
+* [Wikipedia: Electromagnetic Spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
 * [λν=c](https://www.khanacademy.org/science/physics/light-waves/introduction-to-light-waves/a/light-and-the-electromagnetic-spectrum)
 * [Network Topologies](https://en.wikipedia.org/wiki/Network_topology)
 * [NYC Mesh](https://nycmesh.net/map/)
